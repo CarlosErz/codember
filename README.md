@@ -2,7 +2,7 @@
 <div align="center">
 
 Resolución de retos del juego [codember](https://codember.dev/) creado por [@midudev](https://github.com/midudev/).
-![Codember](./images/codember.webp)
+![Codember](./img/codember.webp)
 
 # [codember](https://codember.dev)
 
